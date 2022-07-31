@@ -25,10 +25,10 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.owner = ['6282182623238']
-global.powner = ['6282182623238','6289604111770']
-global.cowner = ['6282182623238','6289604111770','628990888883','6287841171672','6281545463585','6289515716659','6289530298948','6288227248988','62895379169488','6285821676621']
-global.premium = ['6282182623238']
+global.owner = ['6288216335309']
+global.powner = ['6288216335309','62882008912405']
+global.cowner = ['6288216335309','62882008912405']
+global.premium = ['6288216335309']
 global.packname = 'RO-BOT'
 global.author = 'Janji ga prot prot?🤨'
 global.sessionName = 'ronove'
